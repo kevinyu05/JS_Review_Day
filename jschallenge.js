@@ -7,7 +7,7 @@
 //you do not need any loops
 //expected output = “no nomad is not a palindrome”
 
-console.log();
+// console.log();
 // var testWord1 = "levels"
 //
 // // create function to reverse string
